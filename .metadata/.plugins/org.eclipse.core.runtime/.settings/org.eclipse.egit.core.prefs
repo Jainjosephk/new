@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=/home/lenovo/git/java/.git\:
-GitRepositoriesView.GitDirectories.relative=/home/lenovo/git/java/.git\:
+GitRepositoriesView.GitDirectories=/home/lenovo/eclipse-workspace/.git\:/home/lenovo/git/java/.git\:
+GitRepositoriesView.GitDirectories.relative=.git\:/home/lenovo/git/java/.git\:
 RepositoryGroups.uuids=
 RepositorySearchDialogDeepSearch=true
 RepositorySearchDialogSearchPath=/home/lenovo/k/sample
