@@ -1,0 +1,10 @@
+
+public class Functions2 {
+	public static void main(String arg[]) {
+		display();
+	}
+	public static void display() {
+		System.out.println("Function without Arg & Without Rtn");
+		
+	}
+}

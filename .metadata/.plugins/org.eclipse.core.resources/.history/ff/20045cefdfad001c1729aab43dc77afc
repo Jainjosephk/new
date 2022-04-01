@@ -1,0 +1,17 @@
+package sample1;
+
+import java.util.Scanner;
+
+public class HeloWorld1 {
+	public static void main(String ar[]) {
+		Scanner s=new Scanner(System.in);            // input command
+		System.out.println("Enter any two Numbers");   //out put command
+		int a=s.nextInt();                             //multiple entry  
+		int b=s.nextInt();
+		int tot=a+b
+		System.out.println(a+"   "+b);
+		System.out.println("Total ="+tot);
+		
+	}
+
+}

@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class FunctionSample {
+	public static void main(String a[]) {
+		Scanner num=new Scanner(System.in);
+		System.out.print("Enter two Numbers");
+		
+	}
+}
