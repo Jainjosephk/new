@@ -3,12 +3,13 @@
 	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="1"/>
 	<item key="GitSelectRepositoryPage.lastRepository" value="/home/lenovo/eclipse-workspace/sample/.git"/>
 	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Jainjosephk/new.git"/>
 		<item value="https://github.com/Jainjosephk/java.git"/>
 		<item value="https://github.com/Jainjosephk/java"/>
 	</list>
 	<list key="EGit.KnownHosts">
-		<item value="git.eclipse.org"/>
 		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
 		<item value="github.com"/>
 	</list>
 	<section name="GitImportWizard">
